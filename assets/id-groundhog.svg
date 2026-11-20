@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" role="img" aria-label="Groundhog identification diagram">
+<rect width="700" height="340" fill="#f6f3ec"/>
+<text x="30" y="42" font-size="24" font-family="sans-serif" font-weight="bold">Groundhog: field identification</text>
+<g fill="#5b7a4e"><ellipse cx="70" cy="150" rx="13" ry="20"/><ellipse cx="108" cy="168" rx="13" ry="20"/><ellipse cx="146" cy="150" rx="13" ry="20"/><ellipse cx="184" cy="168" rx="13" ry="20"/><ellipse cx="222" cy="150" rx="13" ry="20"/></g>
+<text x="30" y="215" font-size="15" font-family="sans-serif">Tracks</text>
+<text x="30" y="238" font-size="12" font-family="sans-serif">Front tracks show four toes and heavy claw marks for digging. Hind tracks show five toes. Trails run straight ...</text>
+<g fill="#7a5b3a"><rect x="300" y="140" width="16" height="34" rx="8"/><rect x="326" y="140" width="16" height="34" rx="8"/><rect x="352" y="140" width="16" height="34" rx="8"/></g>
+<text x="290" y="215" font-size="15" font-family="sans-serif">Droppings</text>
+<text x="290" y="238" font-size="12" font-family="sans-serif">Groundhogs mostly use a toilet chamber inside the burrow, so droppings are rarely the sign. Burrow shape and g...</text>
+<rect x="30" y="275" width="300" height="10" fill="#999"/><rect x="30" y="275" width="150" height="10" fill="#333"/>
+<text x="30" y="268" font-size="15" font-family="sans-serif">Size</text>
+<text x="30" y="312" font-size="12" font-family="sans-serif">Adults weigh 5 to 14 lb and run about 2 feet long including the tail. They are true hibernators, fattening all...</text>
+<text x="420" y="290" font-size="12" font-family="sans-serif">Diagram is illustrative, drawn for this site.</text>
+</svg>

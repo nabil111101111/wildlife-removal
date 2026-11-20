@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 260" role="img" aria-labelledby="t d">
+<title id="t">Humane wildlife removal process in four steps</title>
+<desc id="d">Inspection, humane removal, exclusion and sealing, then cleanup and disinfection, shown as four linked steps.</desc>
+<style>text{font-family:system-ui,Arial,sans-serif}.h{font-size:22px;font-weight:700;fill:#1c452d}.b{font-size:16px;fill:#33453a}.n{font-size:30px;font-weight:700;fill:#fff}</style>
+<rect x="10" y="30" width="240" height="190" rx="16" fill="#eef5ee" stroke="#2e6b46" stroke-width="2"/>
+<circle cx="52" cy="72" r="24" fill="#2e6b46"/><text class="n" x="52" y="82" text-anchor="middle">1</text>
+<text class="h" x="86" y="80">Inspection</text>
+<text class="b" x="30" y="118">Attic, roofline and</text><text class="b" x="30" y="140">foundation checked.</text>
+<text class="b" x="30" y="168">Entry points found</text><text class="b" x="30" y="190">and photographed.</text>
+<path d="M258 125 L292 125" stroke="#e8b13c" stroke-width="6"/><path d="M292 115 L308 125 L292 135" fill="#e8b13c"/>
+<rect x="316" y="30" width="240" height="190" rx="16" fill="#fdf6dd" stroke="#2e6b46" stroke-width="2"/>
+<circle cx="358" cy="72" r="24" fill="#2e6b46"/><text class="n" x="358" y="82" text-anchor="middle">2</text>
+<text class="h" x="392" y="80">Humane Removal</text>
+<text class="b" x="336" y="118">One-way doors and</text><text class="b" x="336" y="140">live-catch methods.</text>
+<text class="b" x="336" y="168">Young reunited with</text><text class="b" x="336" y="190">their mother outside.</text>
+<path d="M564 125 L598 125" stroke="#e8b13c" stroke-width="6"/><path d="M598 115 L614 125 L598 135" fill="#e8b13c"/>
+<rect x="622" y="30" width="240" height="190" rx="16" fill="#eef5ee" stroke="#2e6b46" stroke-width="2"/>
+<circle cx="664" cy="72" r="24" fill="#2e6b46"/><text class="n" x="664" y="82" text-anchor="middle">3</text>
+<text class="h" x="698" y="80">Exclusion</text>
+<text class="b" x="642" y="118">Every gap sealed with</text><text class="b" x="642" y="140">chew-proof materials.</text>
+<text class="b" x="642" y="168">Chimneys capped and</text><text class="b" x="642" y="190">vents screened.</text>
+<path d="M870 125 L904 125" stroke="#e8b13c" stroke-width="6"/><path d="M904 115 L920 125 L904 135" fill="#e8b13c"/>
+<rect x="928" y="30" width="162" height="190" rx="16" fill="#fdf6dd" stroke="#2e6b46" stroke-width="2"/>
+<circle cx="966" cy="72" r="24" fill="#2e6b46"/><text class="n" x="966" y="82" text-anchor="middle">4</text>
+<text class="h" x="996" y="80">Cleanup</text>
+<text class="b" x="946" y="118">Droppings out,</text><text class="b" x="946" y="140">space disinfected</text>
+<text class="b" x="946" y="168">and deodorised.</text><text class="b" x="946" y="190">Insulation checked.</text>
+</svg>

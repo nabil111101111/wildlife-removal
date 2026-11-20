@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-labelledby="t d">
+<title id="t">Common wildlife entry points on a house</title>
+<desc id="d">A house diagram labelling the soffit, ridge vent, chimney, gable vent, fascia, foundation, deck and garage as common wildlife entry points.</desc>
+<style>text{font-family:system-ui,Arial,sans-serif}.l{font-size:19px;font-weight:700;fill:#1c452d}.s{font-size:15px;fill:#5c6b60}.dot{fill:#b3352b}</style>
+<rect x="330" y="300" width="440" height="240" fill="#f3ead2" stroke="#8a7a55" stroke-width="3"/>
+<polygon points="300,300 550,150 800,300" fill="#2e6b46"/>
+<rect x="520" y="330" width="60" height="110" fill="#cfe0cf" stroke="#8a7a55" stroke-width="2"/>
+<rect x="640" y="345" width="80" height="70" fill="#cfe0cf" stroke="#8a7a55" stroke-width="2"/>
+<rect x="620" y="170" width="52" height="110" fill="#b9b09a" stroke="#8a7a55" stroke-width="2"/>
+<rect x="612" y="158" width="68" height="14" fill="#7c231c"/>
+<rect x="330" y="540" width="440" height="26" fill="#9a9186"/>
+<rect x="770" y="420" width="150" height="120" fill="#e6ddc8" stroke="#8a7a55" stroke-width="2"/>
+<rect x="180" y="470" width="150" height="22" fill="#b08954"/>
+<rect x="196" y="492" width="14" height="48" fill="#8a6a3c"/><rect x="290" y="492" width="14" height="48" fill="#8a6a3c"/>
+<circle class="dot" cx="646" cy="165" r="9"/><circle class="dot" cx="550" cy="182" r="9"/><circle class="dot" cx="352" cy="292" r="9"/>
+<circle class="dot" cx="762" cy="288" r="9"/><circle class="dot" cx="392" cy="312" r="9"/><circle class="dot" cx="550" cy="552" r="9"/>
+<circle class="dot" cx="848" cy="430" r="9"/><circle class="dot" cx="255" cy="478" r="9"/>
+<line x1="646" y1="165" x2="880" y2="90" stroke="#b3352b" stroke-width="2"/><text class="l" x="886" y="86">Chimney</text><text class="s" x="886" y="108">Uncapped flues are raccoon dens</text>
+<line x1="550" y1="182" x2="300" y2="90" stroke="#b3352b" stroke-width="2"/><text class="l" x="60" y="86">Ridge vent</text><text class="s" x="60" y="108">Gaps as small as 3/8 inch admit bats</text>
+<line x1="352" y1="292" x2="180" y2="220" stroke="#b3352b" stroke-width="2"/><text class="l" x="40" y="204">Gable vent</text><text class="s" x="40" y="226">Weak screens get pushed in</text>
+<line x1="392" y1="312" x2="150" y2="330" stroke="#b3352b" stroke-width="2"/><text class="l" x="30" y="322">Soffit</text><text class="s" x="30" y="344">Soft soffits lift at corners</text>
+<line x1="762" y1="288" x2="900" y2="230" stroke="#b3352b" stroke-width="2"/><text class="l" x="906" y="226">Fascia</text><text class="s" x="906" y="248">Rotted fascia chews open fast</text>
+<line x1="550" y1="552" x2="430" y2="600" stroke="#b3352b" stroke-width="2"/><text class="l" x="240" y="606">Foundation</text><text class="s" x="380" y="606">Cracks and vents at grade level</text>
+<line x1="848" y1="430" x2="930" y2="400" stroke="#b3352b" stroke-width="2"/><text class="l" x="936" y="396">Garage</text><text class="s" x="936" y="418">Door seals and side doors</text>
+<line x1="255" y1="478" x2="120" y2="440" stroke="#b3352b" stroke-width="2"/><text class="l" x="20" y="432">Deck</text><text class="s" x="20" y="454">Open space below decks is den space</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" role="img" aria-labelledby="t d">
+<title id="t">Wildlife observations near Elmira by month (iNaturalist)</title>
+<desc id="d">Bar chart of research-grade mammal observations within 25 km of Elmira, by month of year. Peak month is May with 91 observations.</desc>
+<style>text{font-family:system-ui,Arial,sans-serif}</style>
+<text x="50" y="32" font-size="16" font-weight="700" fill="#1c452d">Wildlife observations near Elmira by month (iNaturalist)</text>
+<text x="50" y="54" font-size="12" fill="#5a6656">Research-grade mammal observations within 25 km, all years on record</text>
+<line x1="50" y1="210" x2="672" y2="210" stroke="#ddd5c3"/>
+<text x="44" y="214" font-size="11" fill="#5a6656" text-anchor="end">45</text>
+<line x1="50" y1="84" x2="672" y2="84" stroke="#ddd5c3"/>
+<text x="44" y="88" font-size="11" fill="#5a6656" text-anchor="end">91</text>
+<rect x="66" y="281" width="36" height="55" fill="#33453a"/>
+<text x="84" y="276" font-size="10.5" fill="#1c452d" text-anchor="middle">20</text>
+<text x="84" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Jan</text>
+<rect x="117" y="306" width="36" height="30" fill="#33453a"/>
+<text x="135" y="301" font-size="10.5" fill="#1c452d" text-anchor="middle">11</text>
+<text x="135" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Feb</text>
+<rect x="168" y="234" width="36" height="102" fill="#33453a"/>
+<text x="186" y="229" font-size="10.5" fill="#1c452d" text-anchor="middle">37</text>
+<text x="186" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Mar</text>
+<rect x="219" y="220" width="36" height="116" fill="#33453a"/>
+<text x="237" y="215" font-size="10.5" fill="#1c452d" text-anchor="middle">42</text>
+<text x="237" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Apr</text>
+<rect x="270" y="84" width="36" height="252" fill="#b3352b"/>
+<text x="288" y="79" font-size="10.5" fill="#1c452d" text-anchor="middle">91</text>
+<text x="288" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">May</text>
+<rect x="321" y="131" width="36" height="205" fill="#33453a"/>
+<text x="339" y="126" font-size="10.5" fill="#1c452d" text-anchor="middle">74</text>
+<text x="339" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Jun</text>
+<rect x="373" y="189" width="36" height="147" fill="#33453a"/>
+<text x="391" y="184" font-size="10.5" fill="#1c452d" text-anchor="middle">53</text>
+<text x="391" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Jul</text>
+<rect x="424" y="225" width="36" height="111" fill="#33453a"/>
+<text x="442" y="220" font-size="10.5" fill="#1c452d" text-anchor="middle">40</text>
+<text x="442" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Aug</text>
+<rect x="475" y="239" width="36" height="97" fill="#33453a"/>
+<text x="493" y="234" font-size="10.5" fill="#1c452d" text-anchor="middle">35</text>
+<text x="493" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Sep</text>
+<rect x="526" y="261" width="36" height="75" fill="#33453a"/>
+<text x="544" y="256" font-size="10.5" fill="#1c452d" text-anchor="middle">27</text>
+<text x="544" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Oct</text>
+<rect x="577" y="283" width="36" height="53" fill="#33453a"/>
+<text x="595" y="278" font-size="10.5" fill="#1c452d" text-anchor="middle">19</text>
+<text x="595" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Nov</text>
+<rect x="628" y="300" width="36" height="36" fill="#33453a"/>
+<text x="646" y="295" font-size="10.5" fill="#1c452d" text-anchor="middle">13</text>
+<text x="646" y="354" font-size="11.5" fill="#1c452d" text-anchor="middle">Dec</text>
+<line x1="50" y1="336" x2="672" y2="336" stroke="#1c452d" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 368" role="img" aria-labelledby="t d">
+<title id="t">Most recorded mammals near Binghamton (iNaturalist)</title>
+<desc id="d">Horizontal bar chart of the mammal species most often recorded within 25 km of Binghamton on iNaturalist, with observation counts.</desc>
+<style>text{font-family:system-ui,Arial,sans-serif}</style>
+<text x="50" y="30" font-size="16" font-weight="700" fill="#1c452d">Most recorded mammals near Binghamton (iNaturalist)</text>
+<text x="50" y="50" font-size="12" fill="#5a6656">Research-grade observations within 25 km, all years on record</text>
+<text x="200" y="83" font-size="12.5" fill="#1c452d" text-anchor="end">White-tailed Deer</text>
+<rect x="208" y="68" width="414" height="20" fill="#33453a"/>
+<text x="630" y="83" font-size="12" fill="#1c452d">371</text>
+<text x="200" y="119" font-size="12.5" fill="#1c452d" text-anchor="end">Eastern Chipmunk</text>
+<rect x="208" y="104" width="347" height="20" fill="#33453a"/>
+<text x="563" y="119" font-size="12" fill="#1c452d">311</text>
+<text x="200" y="155" font-size="12.5" fill="#1c452d" text-anchor="end">Groundhog</text>
+<rect x="208" y="140" width="233" height="20" fill="#33453a"/>
+<text x="449" y="155" font-size="12" fill="#1c452d">209</text>
+<text x="200" y="191" font-size="12.5" fill="#1c452d" text-anchor="end">Eastern Gray Squirrel</text>
+<rect x="208" y="176" width="192" height="20" fill="#33453a"/>
+<text x="408" y="191" font-size="12" fill="#1c452d">172</text>
+<text x="200" y="227" font-size="12.5" fill="#1c452d" text-anchor="end">Eastern Cottontail</text>
+<rect x="208" y="212" width="106" height="20" fill="#33453a"/>
+<text x="322" y="227" font-size="12" fill="#1c452d">95</text>
+<text x="200" y="263" font-size="12.5" fill="#1c452d" text-anchor="end">American Beaver</text>
+<rect x="208" y="248" width="103" height="20" fill="#33453a"/>
+<text x="319" y="263" font-size="12" fill="#1c452d">92</text>
+<text x="200" y="299" font-size="12.5" fill="#1c452d" text-anchor="end">American Red Squirrel</text>
+<rect x="208" y="284" width="71" height="20" fill="#33453a"/>
+<text x="287" y="299" font-size="12" fill="#1c452d">64</text>
+<text x="200" y="335" font-size="12.5" fill="#1c452d" text-anchor="end">North American Porcupine</text>
+<rect x="208" y="320" width="57" height="20" fill="#33453a"/>
+<text x="273" y="335" font-size="12" fill="#1c452d">51</text>
+</svg>

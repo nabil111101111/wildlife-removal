@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="34" height="34" role="img" aria-label="Leaf mark">
+  <circle cx="32" cy="32" r="30" fill="#e8b13c"/>
+  <path d="M32 12 C44 20 46 34 32 52 C18 34 20 20 32 12 Z" fill="#1c452d"/>
+  <path d="M32 14 L32 50" stroke="#e8f0e6" stroke-width="2" stroke-linecap="round"/>
+</svg>

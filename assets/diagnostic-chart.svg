@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 430" role="img" aria-labelledby="t d">
+<title id="t">Attic noise diagnostic chart: sound and time point to the species</title>
+<desc id="d">A table style graphic. Heavy thumping at night points to a raccoon. Scratching and rolling nuts in the morning and late afternoon points to grey squirrels. Light pitter patter after dark points to flying squirrels or mice. Fluttering and scratching at dusk points to bats. Chattering and vocal sounds point to a raccoon family.</desc>
+<style>text{font-family:system-ui,Arial,sans-serif}.h{font-size:18px;font-weight:700;fill:#fff}.c{font-size:16px;fill:#16211b}.b{font-size:16px;font-weight:700;fill:#1c452d}</style>
+<rect x="10" y="10" width="1080" height="52" fill="#1c452d"/>
+<text class="h" x="26" y="43">Sound you hear</text><text class="h" x="430" y="43">When you hear it</text><text class="h" x="730" y="43">Likely species</text>
+<g stroke="#ddd5c3"><path d="M10 62 H1090 M10 124 H1090 M10 186 H1090 M10 248 H1090 M10 310 H1090 M10 372 H1090 M10 62 V372 M414 62 V372 M714 62 V372 M1090 62 V372"/></g>
+<text class="c" x="26" y="100">Heavy thumping, walking</text><text class="c" x="430" y="100">After dark, all night</text><text class="b" x="730" y="100">Raccoon</text>
+<text class="c" x="26" y="162">Scratching, rolling nuts</text><text class="c" x="430" y="162">Morning, late afternoon</text><text class="b" x="730" y="162">Grey squirrel</text>
+<text class="c" x="26" y="224">Light pitter patter, fast</text><text class="c" x="430" y="224">After dark only</text><text class="b" x="730" y="224">Flying squirrel or mice</text>
+<text class="c" x="26" y="286">Fluttering, faint scratching</text><text class="c" x="430" y="286">Dusk and dawn</text><text class="b" x="730" y="286">Bats</text>
+<text class="c" x="26" y="348">Chattering, crying, vocal</text><text class="c" x="430" y="348">Night, spring months</text><text class="b" x="730" y="348">Raccoon mother and kits</text>
+<text class="c" x="10" y="410">Read the sound and the hour together. One clue alone often points the wrong way.</text>
+</svg>

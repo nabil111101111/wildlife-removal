@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 368" role="img" aria-labelledby="t d">
+<title id="t">Most recorded mammals near Elmira (iNaturalist)</title>
+<desc id="d">Horizontal bar chart of the mammal species most often recorded within 25 km of Elmira on iNaturalist, with observation counts.</desc>
+<style>text{font-family:system-ui,Arial,sans-serif}</style>
+<text x="50" y="30" font-size="16" font-weight="700" fill="#1c452d">Most recorded mammals near Elmira (iNaturalist)</text>
+<text x="50" y="50" font-size="12" fill="#5a6656">Research-grade observations within 25 km, all years on record</text>
+<text x="200" y="83" font-size="12.5" fill="#1c452d" text-anchor="end">White-tailed Deer</text>
+<rect x="208" y="68" width="414" height="20" fill="#33453a"/>
+<text x="630" y="83" font-size="12" fill="#1c452d">89</text>
+<text x="200" y="119" font-size="12.5" fill="#1c452d" text-anchor="end">Eastern Gray Squirrel</text>
+<rect x="208" y="104" width="386" height="20" fill="#33453a"/>
+<text x="602" y="119" font-size="12" fill="#1c452d">83</text>
+<text x="200" y="155" font-size="12.5" fill="#1c452d" text-anchor="end">Eastern Chipmunk</text>
+<rect x="208" y="140" width="200" height="20" fill="#33453a"/>
+<text x="416" y="155" font-size="12" fill="#1c452d">43</text>
+<text x="200" y="191" font-size="12.5" fill="#1c452d" text-anchor="end">Eastern Cottontail</text>
+<rect x="208" y="176" width="158" height="20" fill="#33453a"/>
+<text x="374" y="191" font-size="12" fill="#1c452d">34</text>
+<text x="200" y="227" font-size="12.5" fill="#1c452d" text-anchor="end">North American Porcupine</text>
+<rect x="208" y="212" width="140" height="20" fill="#33453a"/>
+<text x="356" y="227" font-size="12" fill="#1c452d">30</text>
+<text x="200" y="263" font-size="12.5" fill="#1c452d" text-anchor="end">Groundhog</text>
+<rect x="208" y="248" width="140" height="20" fill="#33453a"/>
+<text x="356" y="263" font-size="12" fill="#1c452d">30</text>
+<text x="200" y="299" font-size="12.5" fill="#1c452d" text-anchor="end">American Black Bear</text>
+<rect x="208" y="284" width="98" height="20" fill="#33453a"/>
+<text x="314" y="299" font-size="12" fill="#1c452d">21</text>
+<text x="200" y="335" font-size="12.5" fill="#1c452d" text-anchor="end">Virginia Opossum</text>
+<rect x="208" y="320" width="79" height="20" fill="#33453a"/>
+<text x="295" y="335" font-size="12" fill="#1c452d">17</text>
+</svg>

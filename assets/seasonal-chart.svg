@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="t d">
+<title id="t">New York wildlife seasonal chart by month</title>
+<desc id="d">A 12 month strip for New York. Bat exclusion blackout runs May 1 to August 15 and October 1 to March 31. Raccoon kits arrive March to June. Squirrel litters arrive in winter and late spring. Animal entry into homes peaks October to March.</desc>
+<style>text{font-family:system-ui,Arial,sans-serif}.m{font-size:15px;font-weight:700;fill:#1c452d}.r{font-size:16px;font-weight:700;fill:#1c452d}.s{font-size:13px;fill:#fff}</style>
+<text class="r" x="10" y="28">Month</text>
+<g text-anchor="middle">
+<text class="m" x="215" y="28">Jan</text><text class="m" x="285" y="28">Feb</text><text class="m" x="355" y="28">Mar</text><text class="m" x="425" y="28">Apr</text><text class="m" x="495" y="28">May</text><text class="m" x="565" y="28">Jun</text><text class="m" x="635" y="28">Jul</text><text class="m" x="705" y="28">Aug</text><text class="m" x="775" y="28">Sep</text><text class="m" x="845" y="28">Oct</text><text class="m" x="915" y="28">Nov</text><text class="m" x="985" y="28">Dec</text>
+</g>
+<g stroke="#ddd5c3"><path d="M180 40 H1020 M180 100 H1020 M180 160 H1020 M180 220 H1020 M180 280 H1020 M180 340 H1020 M180 40 V340 M250 40 V340 M320 40 V340 M390 40 V340 M460 40 V340 M530 40 V340 M600 40 V340 M670 40 V340 M740 40 V340 M810 40 V340 M880 40 V340 M950 40 V340 M1020 40 V340"/></g>
+<text class="r" x="10" y="76">Bat blackout</text>
+<rect x="180" y="52" width="210" height="36" fill="#b3352b"/><rect x="460" y="52" width="245" height="36" fill="#b3352b"/><rect x="810" y="52" width="210" height="36" fill="#b3352b"/>
+<text class="s" x="190" y="75">Oct 1 to Mar 31: no disturbance</text><text class="s" x="470" y="75">May 1 to Aug 15: maternity</text>
+<text class="r" x="10" y="136">Raccoon kits</text>
+<rect x="320" y="112" width="280" height="36" fill="#2e6b46"/><text class="s" x="330" y="135">Kits born Mar to Jun: check for young first</text>
+<text class="r" x="10" y="196">Squirrel litters</text>
+<rect x="180" y="172" width="140" height="36" fill="#2e6b46"/><rect x="460" y="172" width="140" height="36" fill="#2e6b46"/>
+<text class="s" x="190" y="195">Dec to Feb litter</text><text class="s" x="470" y="195">May to Jun litter</text>
+<text class="r" x="10" y="256">Entry push</text>
+<rect x="810" y="232" width="210" height="36" fill="#e8b13c"/><rect x="180" y="232" width="210" height="36" fill="#e8b13c"/>
+<text class="s" x="190" y="255" style="fill:#16211b">Cold drives animals in, Oct to Mar</text>
+<text class="r" x="10" y="316">Best sealing</text>
+<rect x="320" y="292" width="140" height="36" fill="#1c452d"/><rect x="670" y="292" width="140" height="36" fill="#1c452d"/>
+<text class="s" x="330" y="315">Early spring</text><text class="s" x="680" y="315">Late summer to fall</text>
+</svg>

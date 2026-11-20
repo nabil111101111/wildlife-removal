@@ -1,0 +1,111 @@
+/* Wildlife pilot v3 - merged stylesheet (v1 base + v2 premium layer).
+   DRAFT ONLY. Canonical placeholder site. No deployment.
+
+   CLASS CONTRACT (shared by all v3 builders - keep these names):
+   Layout:      .wrap .site-header .brand .logo .site-footer .fine
+   Hero:        .hero .eyebrow .lede .button
+   Takeaways:   .tldr (.takeaways alias) - TL;DR box near the top of every page
+   Stats:       .stat-tiles .stat-tile (.stat-num .stat-label)
+   Sections:    section, h2, h3.qa-q (in-body question headings)
+   Cards:       .grid .card .town-card .step
+   Species:     .species-grid .species-card
+   Lists:       ul.signs, ul.checklist
+   Tables:      table.costs, table.diagnostic (.diagnostic-table alias)
+   Visuals:     figure.diagram, figure.chart, .diagram img, .chart img, figcaption
+   Q and A:     .qa (in-body block), details/summary (end FAQ block), #faq
+   Process:     #process, .process-steps
+   CTA:         .cta .callback-form .placeholder-note #request-inspection
+   Sticky bar:  .sticky-call (mobile call bar, fixed bottom)
+   Links row:   .siblings
+*/
+:root{
+  --ink:#16211b; --muted:#5c6b60; --brand:#2e6b46; --brand-dark:#1c452d;
+  --accent:#e8b13c; --bg:#f7f5ef; --card:#ffffff; --line:#ddd5c3; --radius:16px;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  color:var(--ink);background:var(--bg);line-height:1.7;font-size:17px;padding-bottom:76px}
+.wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+a{color:var(--brand-dark)}
+img{max-width:100%;height:auto}
+.site-header{background:var(--brand-dark);color:#fff;padding:14px 0;position:sticky;top:0;z-index:30}
+.site-header .wrap{display:flex;flex-wrap:wrap;gap:10px 24px;align-items:center;justify-content:space-between}
+.brand{font-weight:700;font-size:1.2rem;display:flex;align-items:center;gap:10px}
+.brand span{display:block;font-weight:400;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;opacity:.85}
+.logo{width:34px;height:34px}
+.site-header nav{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.95rem}
+.site-header nav a{color:#dfeee4;text-decoration:none}
+.site-header nav a:hover,.site-header nav a.active{color:#fff;text-decoration:underline}
+main{padding:32px 24px 10px}
+.hero{background:linear-gradient(135deg,#e6f0e6,#fbf6e6);border:1px solid var(--line);
+  border-radius:20px;padding:48px 36px;margin-bottom:34px}
+.eyebrow{font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--brand);font-weight:700;margin:0 0 10px}
+.hero h1{font-family:Georgia,"Times New Roman",serif;font-size:2.55rem;line-height:1.15;margin:0 0 14px}
+h2{font-family:Georgia,"Times New Roman",serif;font-size:1.8rem;margin:0 0 14px;color:var(--brand-dark)}
+h3{font-size:1.12rem;margin:18px 0 8px}
+h3.qa-q{color:var(--brand-dark)}
+.lede{font-size:1.15rem;color:#33453a;max-width:64ch}
+.button{display:inline-block;background:var(--brand);color:#fff;padding:14px 26px;border-radius:10px;
+  text-decoration:none;font-weight:700;margin-top:12px}
+.button:hover{background:var(--brand-dark)}
+section{margin:0 0 42px}
+.tldr,.takeaways{background:#eef5ee;border:1px solid var(--brand);border-left:6px solid var(--brand);
+  border-radius:var(--radius);padding:20px 24px;margin:0 0 34px}
+.tldr h2,.takeaways h2{font-size:1.25rem;margin:0 0 8px}
+.tldr ul,.takeaways ul{margin:0;padding-left:20px}
+.stat-tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:0 0 30px}
+.stat-tile{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px;text-align:center}
+.stat-tile .stat-num{display:block;font-family:Georgia,serif;font-size:1.6rem;font-weight:700;color:var(--brand-dark)}
+.stat-tile .stat-label{font-size:.9rem;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px}
+.card h3{margin:0 0 8px;font-size:1.1rem}
+.card p{margin:0;color:#33453a}
+.town-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px;text-decoration:none;color:var(--ink);display:block}
+.town-card:hover{border-color:var(--brand)}
+.town-card h3{margin:0 0 6px;color:var(--brand-dark)}
+.town-card p{margin:0;color:var(--muted);font-size:.95rem}
+.species-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.species-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px}
+.species-card h3{margin:0 0 6px;font-size:1.05rem}
+.species-card p{margin:0 0 8px;color:#33453a;font-size:.95rem}
+.species-card a{font-weight:600}
+ul.signs,ul.checklist{list-style:none;padding:0}
+ul.signs li,ul.checklist li{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:13px 18px;margin:0 0 10px}
+table.costs,table.diagnostic{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+table.costs th,table.costs td,table.diagnostic th,table.diagnostic td{padding:13px 16px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+table.costs thead th,table.diagnostic thead th{background:#eef5ee;color:var(--brand-dark)}
+table.costs td.price{font-weight:700;white-space:nowrap}
+.diagnostic-table{width:100%}
+figure.diagram,figure.chart{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px;margin:0 0 30px;text-align:center}
+figure.diagram img,figure.chart img{width:100%}
+figcaption{font-size:.92rem;color:var(--muted);margin-top:10px;text-align:left}
+.qa{margin:0 0 6px}
+details{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px 18px;margin:0 0 12px}
+summary{font-weight:700;cursor:pointer}
+details p{margin:10px 0 4px;color:#33453a}
+.cta{background:#fdf6dd;border:1px solid #e3cd8a;border-radius:var(--radius);padding:30px 26px}
+.placeholder-note{background:#fff3f3;border:1px dashed #b3352b;color:#7c231c;border-radius:8px;padding:10px 14px;font-size:.92rem}
+.callback-form{display:grid;gap:12px;max-width:480px;margin-top:14px}
+.callback-form label{display:grid;gap:4px;font-weight:600;font-size:.95rem}
+.callback-form input,.callback-form textarea,.callback-form select{padding:11px;border:1px solid #b9b09a;border-radius:8px;font:inherit}
+.callback-form button{background:var(--brand);color:#fff;border:0;padding:13px;border-radius:8px;font:inherit;font-weight:700;cursor:pointer}
+.callback-form button:hover{background:var(--brand-dark)}
+.siblings ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:8px 18px}
+.fine{font-size:.9rem;color:var(--muted)}
+.site-footer{background:var(--brand-dark);color:#dfeee4;margin-top:34px;padding:28px 0}
+.site-footer a{color:#dfeee4}
+.site-footer .fine{color:#bcd2c2}
+.sticky-call{position:fixed;left:0;right:0;bottom:0;background:var(--brand-dark);color:#fff;
+  display:flex;gap:16px;align-items:center;justify-content:center;padding:11px 16px;z-index:40;flex-wrap:wrap}
+.sticky-call a{color:#fff;font-weight:700;text-decoration:none;background:var(--brand);padding:10px 20px;border-radius:8px}
+.sticky-call .fine{color:#dfeee4}
+.breadcrumb{font-size:.9rem;color:var(--muted);margin:0 0 18px}
+@media (max-width:640px){
+  .hero{padding:30px 20px}.hero h1{font-size:1.9rem}
+  table.costs td.price{white-space:normal}
+  .site-header .wrap{flex-direction:column;align-items:flex-start}
+  main{padding:22px 16px 10px}
+}
